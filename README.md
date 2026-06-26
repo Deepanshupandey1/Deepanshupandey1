@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>Data Structures & Algorithms (LeetCode), Java Development, and Computer Science Fundamentals.<br><br>👯 I'm looking to collaborate on<br><br>Open Source Projects, Java Applications, and Developer Tools.<br><br>🤝 I'm looking for help with<br><br>Backend Development, System Design, and Open Source Contributions.<br><br>🌱 I'm currently learning<br><br>Java, Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Cybersecurity.
+🔭 I'm currently working on<br><br>Data Structures & Algorithms (LeetCode) and Computer Science Fundamentals.<br><br>👯 I'm looking to collaborate on<br><br>Open Source Projects and Developer Tools.<br><br>🤝 I'm looking for help with<br><br>Backend Development, System Design, and Open Source Contributions.<br><br>🌱 I'm currently learning<br><br> Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Cybersecurity.
 
 
 ## 🌐 Socials:
