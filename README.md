@@ -1,4 +1,10 @@
-# 💫 About Me:
+# 💫 Hi,I'm **Deepanshu Pandey**, a **B.Tech Computer Science Engineering** student from India 🇮🇳.
+
+💻 Passionate about **Software Development, Data Structures & Algorithms, and Computer Science Fundamentals**.
+
+🚀 Currently focused on **LeetCode**, **Backend Development**, and **Open Source** while continuously strengthening my problem-solving skills.
+
+🎯 My goal is to become a skilled Software Engineer and contribute to impactful real-world projects.
 🔭 I'm currently working on<br><br>Data Structures & Algorithms (LeetCode) and Computer Science Fundamentals.<br><br>👯 I'm looking to collaborate on<br><br>Open Source Projects and Developer Tools.<br><br>🤝 I'm looking for help with<br><br>Backend Development, System Design, and Open Source Contributions.<br><br>🌱 I'm currently learning<br><br> Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Cybersecurity.
 
 
